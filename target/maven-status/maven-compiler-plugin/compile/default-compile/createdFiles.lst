@@ -1,11 +1,11 @@
 com\epf\Controller\MapController.class
 com\epf\Persistance\Map.class
 com\epf\Persistance\Interface_DAO\PlanteDAO.class
+com\epf\Config\Config_CORS.class
 com\epf\Service\MapService.class
 com\epf\Service\Service_ZombieDAO.class
 com\epf\Persistance\MapDAOImp.class
 com\epf\Persistance\Interface_DAO\MapDAO.class
-com\epf\Config\WebConfig.class
 com\epf\Controller\PlanteDTO.class
 com\epf\Service\Service_MapDAO.class
 com\epf\Persistance\PlanteDAOImp.class

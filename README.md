@@ -1,6 +1,6 @@
 # Projet Plants vs Zombies - Backend
 
-Ce projet implémente le backend d'une application inspirée du jeu Plants vs Zombies, développé dans le cadre du cours Java.
+Ce projet implémente le backend du jeu Plants vs Zombies, développé dans le cadre du cours Langage Java.
 
 ## Technologies Utilisées
 
@@ -33,12 +33,10 @@ Le projet suit une architecture en couches :
 3. **Tests** :
    - Tests unitaires pour les DAOs
    - Tests unitaires pour les Services
-   - Tests d'intégration
 
 ## Configuration
 
 La base de données est configurée dans :
-- `src/main/resources/database.properties`
 - `com/epf/Persistance/Config_BDD.java`
 
 ## Déploiement
@@ -102,7 +100,7 @@ Le projet est packagé en WAR pour le déploiement sur Tomcat.
    - Vérifient les interactions avec les DAOs
    - Exemple : `PlanteServiceTest`, `ZombieServiceTest`, `MapServiceTest`
 
-### Pourquoi ces choix ?
+### Explication des solutions utilisées 
 
 1. **Mockito** :
    - Permet de tester en isolation
@@ -115,11 +113,6 @@ Le projet est packagé en WAR pour le déploiement sur Tomcat.
    - Correspondance avec l'architecture de l'application
    - Facilite la maintenance et l'identification des problèmes
 
-3. **Tests automatisés** :
-   - Intégration avec Maven
-   - Exécution systématique avant le déploiement
-   - Garantit la non-régression
-   - Documentation vivante du code
 
 ### Patterns de Test Utilisés
 
@@ -133,7 +126,7 @@ Le projet est packagé en WAR pour le déploiement sur Tomcat.
    - Améliore la lisibilité des tests
    - Facilite la maintenance
 
-3. **Mock et Stub** :
+3. **Mock** :
    - Simulation des dépendances
    - Isolation des composants
    - Contrôle total sur l'environnement de test

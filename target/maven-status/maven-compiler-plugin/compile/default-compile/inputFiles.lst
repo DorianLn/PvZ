@@ -5,6 +5,7 @@ D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Service\Service_Z
 D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Persistance\Effet.java
 D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Persistance\Plante.java
 D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Service\PlanteService.java
+D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Config\Config_CORS.java
 D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Controller\ZombieController.java
 D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Persistance\Interface_DAO\ZombieDAO.java
 D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Service\Service_PlanteDAO.java
@@ -21,5 +22,4 @@ D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Persistance\Zombi
 D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Service\ZombieService.java
 D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Controller\PlanteController.java
 D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Persistance\MapDAOImp.java
-D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Config\WebConfig.java
 D:\4A\Langage Java\Projet_PvZ\projet_pvz\src\main\java\com\epf\Service\MapService.java
